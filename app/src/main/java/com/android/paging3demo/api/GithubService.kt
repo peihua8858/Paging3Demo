@@ -1,5 +1,3 @@
-
-
 package com.android.paging3demo.api
 
 import okhttp3.OkHttpClient
